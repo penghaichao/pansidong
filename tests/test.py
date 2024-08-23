@@ -182,6 +182,3 @@ def is_traday(w, natural_date):
     else:
         return 0
 
-
-
-print("test")
